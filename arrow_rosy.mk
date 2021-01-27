@@ -30,11 +30,6 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 5
 PRODUCT_MANUFACTURER := Xiaomi
 
-# Project-Sakura official build flags
-SAKURA_OFFICIAL := true
-SAKURA_MAINTAINER := Shriiyansh Pandey
-SAKURA_GAPPS := false
-
 # Boot animation
 TARGET_BOOT_ANIMATION_RES := 720
 TARGET_BOOTANIMATION_HALF_RES := true
