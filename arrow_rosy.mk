@@ -12,6 +12,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_n_mr1.mk
 # Inherit some common PixelExperience stuff
 $(call inherit-product, vendor/arrow/config/common.mk)
 
+#MaintainerString
+DEVICE_MAINTAINER := Shriiyansh Pandey
+
 # Pixel customization
 TARGET_SUPPORTS_GOOGLE_RECORDER := false
 TARGET_INCLUDE_STOCK_ARCORE := false
